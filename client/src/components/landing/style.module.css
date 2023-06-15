@@ -1,0 +1,35 @@
+.statistic {
+  padding: 40px 8%;
+}
+.statistic h2 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 25px;
+  line-height: 30px;
+  color: #010414;
+  margin-bottom: 40px;
+}
+
+.menu {
+  display: flex;
+  column-gap: 70px;
+  border-bottom: 1px solid #f6f6f7;
+}
+.menu .Country,
+.menu .Worldwide {
+  border-bottom: 3px solid #010414;
+  padding-bottom: 19px;
+  font-weight: 700;
+}
+
+.menu h3 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  padding-bottom: 16px;
+  line-height: 19px;
+  cursor: pointer;
+  color: #010414;
+}

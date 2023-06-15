@@ -1,0 +1,75 @@
+.navigation {
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #f6f6f7;
+  padding: 0 8%;
+}
+
+.navigation img {
+  width: 140px;
+  height: 38px;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+  column-gap: 40px;
+}
+
+.lang {
+  border: none;
+  cursor: pointer;
+  outline: none;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+
+  /* Dark/100 */
+
+  color: #010414;
+}
+.lang option {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+
+  /* Dark/100 */
+
+  color: #010414;
+}
+
+.name {
+  display: flex;
+  column-gap: 3px;
+  border-right: 1px solid #e6e6e7;
+  padding-right: 16px;
+}
+
+.name h4 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: #010414;
+}
+
+.logout button {
+  border: none;
+  cursor: pointer;
+  outline: none;
+  background: transparent;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #010414;
+}

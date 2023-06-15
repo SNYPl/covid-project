@@ -1,0 +1,79 @@
+.resetContainer {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 40px;
+}
+
+.resetContainer img {
+  width: 170px;
+  margin-bottom: 9%;
+}
+
+.reset h3 {
+  margin-bottom: 56px;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 25px;
+  line-height: 30px;
+  text-align: center;
+  color: #010414;
+}
+
+.input {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 24px;
+}
+
+.input label {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: #010414;
+  margin-bottom: 8px;
+}
+
+.input input {
+  background: #ffffff;
+  border: 1px solid #e6e6e7;
+  border-radius: 8px;
+  width: 300px;
+  height: 50px;
+  outline: none;
+}
+.input p {
+  color: red;
+}
+.errorsP {
+  color: red;
+}
+
+.resetContainer button,
+.resetContainer a {
+  width: 306px;
+  height: 56px;
+  background: #0fba68;
+  border-radius: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 24px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.successfully p {
+  margin-bottom: 30px;
+  margin-top: 5%;
+}

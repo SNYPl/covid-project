@@ -1,0 +1,31 @@
+{
+  "login": {
+    "enter": "LOG IN",
+    "welcome": "Welcome Back",
+    "details": "Welcome back! Please enter your details",
+    "username": "Username",
+    "password": "Password",
+    "remember": "Remember this device",
+    "forgot": "Forgot Password?",
+    "account": "Don't have an Account?",
+    "signUP": "Sign up for free"
+  },
+  "navigation": {
+    "logout": "Logout",
+    "en": "English",
+    "ge": "Georgian",
+    "hi": "Hi"
+  },
+
+  "dashboard": {
+    "worldWide": "Worldwide",
+    "statistic": "Worldwide Statistics",
+    "byCountry": "By Country",
+    "cases": "New Cases",
+    "recovered": "Recovered",
+    "death": "Death",
+    "location": "Location",
+    "clear": "Clear Sorting",
+    "search": "Search by country"
+  }
+}
